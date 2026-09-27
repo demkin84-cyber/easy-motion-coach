@@ -1,0 +1,1 @@
+This project uses MediaPipe's pretrained Pose model rather than a custom-trained model — see the main README for details.

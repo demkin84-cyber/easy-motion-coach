@@ -1,0 +1,1 @@
+This project processes raw video input directly rather than a structured dataset — see the main README's 'Input data format' section.
